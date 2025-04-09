@@ -15,6 +15,16 @@ TransacScope is a fraud detection app built using Flask, designed to analyze fin
 - **Chart.js**: For interactive data visualizations (charts).
 - **Bootstrap**: For responsive and clean UI design.
 
+
+### **Fraud Detection Dashboard**
+![Screenshot](TransacScope\output\Screenshot_9-4-2025_19123_127.0.0.1.jpeg)
+
+
+![Screenshot](E:\TransacScope\output\Screenshot_9-4-2025_191042_127.0.0.1.jpeg)
+
+
+![Screenshot](E:\TransacScope\output\Screenshot_9-4-2025_191152_127.0.0.1.jpeg)
+
 ### Running the App
 1. Clone this repository:
     ```bash
