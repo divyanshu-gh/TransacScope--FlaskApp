@@ -17,13 +17,13 @@ TransacScope is a fraud detection app built using Flask, designed to analyze fin
 
 
 ### **Fraud Detection Dashboard**
-![Screenshot](output\Screenshot_9-4-2025_19123_127.0.0.1.jpeg)
+![Screenshot](output/Screenshot_9-4-2025_19123_127.0.0.1.jpeg)
 
 
-![Screenshot](output\Screenshot_9-4-2025_191042_127.0.0.1.jpeg)
+![Screenshot](output/Screenshot_9-4-2025_191042_127.0.0.1.jpeg)
 
 
-![Screenshot](output\Screenshot_9-4-2025_191152_127.0.0.1.jpeg)
+![Screenshot](output/Screenshot_9-4-2025_191152_127.0.0.1.jpeg)
 
 ### Running the App
 1. Clone this repository:
